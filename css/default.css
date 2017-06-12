@@ -8,20 +8,20 @@
 @media screen and (max-width:640px){
          body{
              background-color: red;
-           font-family: "Noto Sans Japanese";
+           font-family: 'Oswald', sans-serif;
          }
  }
  
  @media screen and (min-width:641px) and (max-width:980px){
           body{
               background-color: green;
-             font-family: "Noto Sans Japanese";
+             font-family: 'Oswald', sans-serif;
               }
  }
  
  @media screen and (min-width:981px){
           body{
               background-color:blue;
-             font-family: "Noto Sans Japanese";
+             font-family: 'Oswald', sans-serif;
               }
  }
